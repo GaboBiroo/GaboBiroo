@@ -34,7 +34,7 @@ Desenvolvedor focado em construir **sistemas web robustos, APIs escaláveis e au
 * **O que faz:** Sistema comercial completo voltado para gestão de cafeterias, integrando diversas automações de processos e controle interno.
 * **Tecnologias:** PHP, Laravel, Automações.
 
-### 💻 Dev Interpra
+### 💻 Dev On The Praia
 * **O que faz:** Solução técnica robusta que combina o poder de tipagem do TypeScript com scripts utilitários avançados em Python.
 * **Tecnologias:** TypeScript, Python.
 
@@ -43,8 +43,8 @@ Desenvolvedor focado em construir **sistemas web robustos, APIs escaláveis e au
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaboBiroo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaboBiroo&layout=compact&langs_count=7&theme=tokyonight&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaboBiroo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaboBiroo&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -53,5 +53,5 @@ Desenvolvedor focado em construir **sistemas web robustos, APIs escaláveis e au
 
 Se você precisa de um sistema personalizado ou quer automatizar os processos da sua empresa, entre em contato comigo!
 
-* **LinkedIn:** [Seu Link do LinkedIn Aqui]
-* **E-mail:** [Seu E-mail Aqui]
+* **LinkedIn:** [https://www.linkedin.com/in/gabriel-hatakeyama-rodrigues-343513274]
+* **E-mail:** [Gabrielhrodrigues8@gmail.com]
